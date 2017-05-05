@@ -1,5 +1,5 @@
 view: ads {
-  sql_table_name: looker_facebook.facebook_ads_x ;;
+  sql_table_name: facebook_ads_jobseeker.facebook_ads_1066650226690365 ;;
   # API documentation here: https://developers.facebook.com/docs/marketing-api/reference/adgroup
 
   dimension: id {

@@ -1,5 +1,5 @@
 view: campaigns {
-  sql_table_name: looker_facebook.campaigns_x ;;
+  sql_table_name: facebook_ads_jobseeker.facebook_campaigns_1066650226690365 ;;
 
   dimension: id {
     primary_key: yes

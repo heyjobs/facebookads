@@ -1,5 +1,5 @@
 view: ad_actions_by_country {
-  sql_table_name: looker_facebook.facebook_ads_insights_country_x__actions ;;
+  sql_table_name: facebook_ads_jobseeker.facebook_ads_insights_country_1066650226690365__actions ;;
   #   - dimension: 1d_click
   #     type: number
   #     sql: ${TABLE}.1d_click
